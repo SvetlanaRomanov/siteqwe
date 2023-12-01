@@ -1,0 +1,38 @@
+body{
+    background-color:BurlyWood ;
+}
+nav {
+   margin: 40px; 
+}
+ 
+nav a {
+    padding: 10px;
+    margin: 40px;
+    text-decoration: none;
+    border: 2px solid saddlebrown;
+    border-radius: 30px;
+    background-color:Chocolate;
+    color: black; 
+}
+main{
+color:maroon;
+font-size: 20px;
+
+} 
+main h2 {
+    color:sienna; 
+    text-align: center;
+
+}
+main h1 {
+    color: black; 
+    text-align: center;
+
+}
+footer  {
+    color:yellow;
+    text-decoration: none;
+}   
+table {
+    color:Maroon;
+}
